@@ -22,4 +22,4 @@ data = {
 df = pd.DataFrame(data)
 df.to_csv("synthetic_lvedp_dataset.csv", index=False)
 
-print("Dataset created and saved as 'synthetic_lvedp_dataset.csv'")
+print("Dataset created and saved as 'synthetic_lvedp_regression_dataset.csv'")
